@@ -1,7 +1,7 @@
 name: severfire
 favicon: null
 layout_spectrum: 0.39507
-typography_spectrum: 0.17890859209001064
+typography_spectrum: 0.24393
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.044022161746397614
+    - '#0e0000'
+    - '#b20000'
+    - '#ea0001'
+    - '#460000'
+    - '#720000'
+  brandStrength: 0.625
   lightness: 0.0625
   saturation: 0.875
   rhythmicContrast: 0.75
