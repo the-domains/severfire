@@ -1,6 +1,6 @@
 name: severfire
 favicon: null
-layout_spectrum: 0.4059104039333761
+layout_spectrum: 0.39507
 typography_spectrum: 0.17890859209001064
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.044022161746397614
-  lightness: 0.4567096184473485
-  saturation: 0.21018938068300486
-  rhythmicContrast: 0.647090932354331
+  lightness: 0.0625
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
